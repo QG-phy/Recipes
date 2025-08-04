@@ -1,0 +1,3 @@
+[2025-04-27 22:29:11,966] DEEPTB INFO    dptb.utils.auto_band_config                   The structure space group is: P-6m2 (No. 187)
+[2025-04-27 22:29:15,685] DEEPTB INFO    dptb.postprocess.bandstructure.band           No Fermi energy available, setting to 0.0 eV
+[2025-04-27 22:29:16,171] DEEPTB INFO    dptb.entrypoints.run                          band calculation successfully completed.

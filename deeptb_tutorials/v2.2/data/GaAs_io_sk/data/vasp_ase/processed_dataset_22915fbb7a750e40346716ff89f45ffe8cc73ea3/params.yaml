@@ -1,0 +1,26 @@
+dptb_version: 2.0.4.dev93+ea00a42
+dtype: torch.float32
+get_DM: false
+get_Hamiltonian: false
+get_eigenvalues: true
+get_overlap: false
+include_frames: null
+info_files:
+  AsGa.0:
+    bandinfo:
+      band_max: 8
+      band_min: 0
+      emax: null
+      emin: null
+    er_max: null
+    natoms: 2
+    nframes: 1
+    oer_max: null
+    pbc: true
+    pos_type: ase
+    r_max:
+      As-As: 6.630000000000001
+      As-Ga: 6.43
+      Ga-As: 6.43
+      Ga-Ga: 6.220000000000001
+url: null

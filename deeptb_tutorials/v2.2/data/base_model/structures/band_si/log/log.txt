@@ -1,0 +1,6 @@
+[2025-04-27 22:22:54,702] DEEPTB INFO    dptb.utils.auto_band_config                   The structure space group is: Fd-3m (No. 227)
+[2025-04-27 22:22:54,716] DEEPTB INFO    dptb.nn.nnsk                                  dtype is not provided in the input json, set to the value torch.float32 in model ckpt.
+[2025-04-27 22:22:54,716] DEEPTB INFO    dptb.nn.nnsk                                  device is not provided in the input json, set to the value cpu in model ckpt.
+[2025-04-27 22:22:54,716] DEEPTB INFO    dptb.nn.nnsk                                  overlap is not provided in the input json, set to the value True in model ckpt.
+[2025-04-27 22:22:55,554] DEEPTB INFO    dptb.postprocess.bandstructure.band           No Fermi energy available, setting to 0.0 eV
+[2025-04-27 22:22:56,011] DEEPTB INFO    dptb.entrypoints.run                          band calculation successfully completed.
